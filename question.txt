@@ -1,0 +1,105 @@
+1. What is an Algorithm? How to compute its time complexity?
+2. What is Pseudocode?
+3. Write the types of algorithm efficiencies?
+4. Define worst-case efficiency.
+5. Define best-case efficiency.
+6. Define average case efficiency.
+7. Brief about Big O-notation.
+8. Brief about Big Ω-notation.
+9. Brief about Big θ-notation.
+10. List the characteristics of an algorithm.
+11. What is a Data Structure?
+12. Why do we need data structures?
+13. List some common data structures.
+14. How data structures are classified?
+15. Define Abstract Data Type. Give any two examples.
+16. State the advantages of ADT. 
+17. List the various operations that can be performed on data structure.
+18. List out the areas in which data structures are applied extensively.
+19. What do you mean by linear data structure? Give example. 
+20. What do you mean by non-linear data structure? Give example.
+21. Outline a linear and non linear data structure with an example.
+22. What is stack ADT? List its operations.
+23. What are the operations of the stack? 
+24. Write the routine to push a element into a stack. 
+25. What are the methods to implement stack in C? 
+26. Write the routine to pop a element from a stack. 
+27. Define queue. 
+28. What are the operations of a queue? 
+29. What are the types of queue? 
+30. Write the differences between stack and queue.
+31. What are the methods to implement queue?
+32. What are push and pop operations? 
+33. How do you test for an empty stack?  
+34.  Define circular queue.
+35. Write the features of stack? 
+36. Write a routine for IsEmpty condition of queue. 
+37. Convert the infix (a+b)*(c+d)/f into postfix & prefix expression 
+38. Write postfix from of the expression –A+B-C+D?  
+39. Given the prefix for an expression, write its postfix: -*-+abc/ef-g/hi 
+40. Describe how the following "infix" expression is evaluated with the help of stack : 5 * ( 6 + 2 ) - 12 / 4
+41. Mention the applications of stack.
+42. Explain the fundamental steps involved in algorithmic problem solving.
+43. Write a note on Pseudocode conventions.
+44. Describe Recursive Algorithms.
+45. Write a detailed note on Space Complexity.
+46. Describe all asymptotic notations.
+47. Write a detailed note on Time Complexities.
+48. Explain about algorithm with suitable example.
+49. Linear and Non Linear data structures.
+50. Mention some features of data structures.
+51. What are the benefits of ADT?
+52. Explain the various operations of the ADT with examples.
+53. What are the different types of data structures?
+54. What are the applications of stack? 
+55. Write the routine to insert a element onto a queue. 
+56. Write the routine to delete a element from a queue 
+57. What are the applications of queue? 
+58. What are enqueue and dequeue operations? 
+59.Distinguish between stack and queue. 
+60. How do you test for an empty queue?  
+61. Explain how to evaluate arithmetic expressions using stacks 
+62. What are the postfix and prefix forms of the expression?  A+B*(C-D)/(P-R)
+63. Discuss the advantages and disadvantages of stacks and queues. 
+ 64. Describe the process of postfix expression evaluation with an example.
+65. Convert the following infix expresssion into its equivalent postfix expression. (a+b)*(m/n)+(x+y)
+66. Explain Asymptotic Notations in detail.
+67. Discuss Fundamentals of the analysis of algorithm efficiency elaborately.
+68. What is an algorithm? Explain the algorithm spcification and performance analysis.
+69. Explain the pseudocode conventions with an example.
+70. Define time and space complexity. Explain with examples. 
+71. List down the applications of Data Structures.
+72. Briefly explain about the advantages and disadvantages of data structures.
+73. Discuss the basic operations of Data Structures.
+74. Explain the process of designing an algorithm with suitable example. Give characteristics of an algorithm.
+75. Describe performance analysis, space complexity and time complexity in detail.
+76. Explain array based implementation of stack.
+77. Explain linked list implementation of stack. 
+78. Explain Stack ADT and its operations. 
+79. Explain the applications of Stack.
+80. Explain queue ADT.
+81. Describe array based implementation of queue.
+82. Describe linked list implementation of queue.
+83. Explain the applications of queue.
+84. Discuss in detail about the circular queue and its implementation.
+85. Describe with an example how to evaluate arithmetic expressions using stack. 
+86. Explain the infix, prefix and postfix expressions with an example.
+87. Write an algorithm to convert an infix expression to a postfix expression. Trace the algorithm to convert the infix expression ‘(a+b)*c/d+e/f” to a postfix expression.
+88. Develop the simulation using stack for the following expression conversion: 12 + 3 * 14 – (5 * 16) +7. 
+89.  Explain the insertion operation in linked list. How nodes are inserted after a specified node
+90. What are the benefit and limitations of linked list? 
+91. Explain the operation of traversing linked list. Write the algorithm and give an  example. 
+92. Explain the steps involved in insertion and deletion into a singly linked list. 
+93. Explain the steps involved in insertion and deletion into a doubly linked list. 
+94. Explain the operations of singly linked lists.
+95. Explain the operations of doubly linked lists.
+96.  Explain the operations of circularly linked lists.
+97. How polynomial manipulations are performed with lists? Explain the operations.
+98. Define Tree. Explain the tree traversals with algorithms and examples.
+99. Construct an expression tree for the expression (a + b * c) +((d * e + 1) * g). Give the outputs when you apply preorder, inorder and postorder traversals.
+100. Explain the various representation of graph with example in detail.
+
+
+
+
+
