@@ -1,3 +1,4 @@
+
 body {
     font-family: Arial, sans-serif;
     background: url('image1.jpg') no-repeat center center fixed;
@@ -30,6 +31,7 @@ body {
     height: auto;
     margin-right: 15px;
 }
+
 .login-container {
     background: rgba(255, 255, 255, 0.9);
     padding: 25px;
